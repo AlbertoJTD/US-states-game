@@ -13,3 +13,6 @@ pip install pandas
 - Type the name of a US state and if spelled correctly the name will be placed in the corresponding state.
 - If you want to end the game, just type `exit`
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89556233/231025905-6537591c-6fe8-4f4b-a31c-3d812f7444ae.gif" width="726" height="492" style="text-align:center;">
+</p>
