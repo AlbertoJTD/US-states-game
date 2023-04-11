@@ -10,6 +10,7 @@ screen.title("U.S. States Game")
 # Setup background
 image = "blank_states_img.gif"
 screen.addshape(image)
+screen.setup(width=726, height=492)
 turtle.shape(image)
 
 # Read CSV file
